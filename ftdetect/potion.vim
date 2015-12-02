@@ -1,1 +1,1 @@
-autocmd BufNewFile,BufRead *.pn setfiletype=potion
+autocmd BufNewFile,BufRead *.pn setfiletype potion
