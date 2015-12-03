@@ -1,0 +1,75 @@
+*potion.txt* functionality for the potion programming language
+
+                      ___      _   _              ~
+                     / _ \___ | |_(_) ___  _ __   ~
+                    / /_)/ _ \| __| |/ _ \| '_ \  ~
+                   / ___/ (_) | |_| | (_) | | | | ~
+                   \/    \___/ \__|_|\___/|_| |_| ~
+
+          Functionality for the Potion programming language.
+        Includes syntax highlighting, code folding, and more!
+
+====================================================================
+CONTENTS                                            *PotionContents*
+
+    1. Usage ................ |PotionUsage|
+    2. Mappings ............. |PotionMappings|
+    3. License .............. |PotionLicense|
+    4. Bugs ................. |PotionBugs|
+    5. Contributing ......... |PotionContributing|
+    6. Changelog ............ |PotionChangelog|
+    7. Credits .............. |PotionCredits|
+
+====================================================================
+Section 1: Usage                                       *PotionUsage*
+
+This plugin with automatically provide syntax highlighting,
+compiling, folding, and section moving for Potion files (files
+ending in .pn).
+
+====================================================================
+Section 2: Mappings                                 *PotionMappings*
+
+--------------------------------------------------------------------
+2.1 Compile                                          *PotionCompile*
+
+Bound to: <localleader>r
+
+--------------------------------------------------------------------
+2.2 View bytecode                                   *PotionByteCode*
+
+Bound to: <localleader>b
+
+====================================================================
+Section 3: License                                   *PotionLicense*
+
+This is plugin MIT licensed.
+
+====================================================================
+Section 4: Bugs                                         *PotionBugs*
+
+If you find a bug please post it on the issue tracker:
+http://github.com/melihovv/vim-potion/issues
+
+====================================================================
+Section 5: Contributing                         *PotionContributing*
+
+Think you can make this plugin better? Awesome! Fork it on GitHub
+and send a pull request.
+
+GitHub: http://github.com/melihovv/vim-potion
+
+====================================================================
+Section 6: Changelog                               *PotionChangelog*
+
+v1.0.0
+    * Initial stable release.
+
+====================================================================
+Section 7: Credits                                   *PotionCredits*
+
+Pretty much written by Steve Losh, I just changed a few things.
+Wrote this while working through Learn Vimscript The Hard Way,
+which can be found here:
+
+           http://learnvimscriptthehardway.stevelosh.com/
